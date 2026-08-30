@@ -53,6 +53,3 @@ Aktiver Entwicklungsstand – Auslegungswerkzeug für die eigene Höhenforschung
 - [ ] Realere Cw-Datenbasis (CFD- oder Windkanaldaten statt Näherung)
 - [ ] Import von echten Motor-Thrust-Curves (.eng-Dateien)
 
-## Lizenz
-
-*(Trage hier deine gewünschte Lizenz ein, z. B. MIT)*
